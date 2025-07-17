@@ -37,7 +37,7 @@ Send a submission request to the [Submit App](https://inappwebview.dev/submit-ap
 ## Requirements
 
 - Dart sdk: ">=2.14.0 <3.0.0"
-- Flutter: ">=2.5.0"
+- Flutter SDK: "3.19.0"
 - Android: `minSdkVersion 17` and add support for `androidx` (see [AndroidX Migration](https://flutter.dev/docs/development/androidx-migration) to migrate an existing app)
 - iOS: `--ios-language swift`, Xcode version `>= 12`
 
